@@ -1,1 +1,16 @@
-site_name: My Docs
+site_name: Orlando Rodriguez
+
+theme:
+  name: terminal
+  palette: gruvbox_dark
+  features:
+    - navigation.side.hide
+
+nav:
+  - Home: index.md
+  - About: 
+    - Me: 'about/me.md'
+    - Site: 'about/site.md'
+  - Projects: projects/index.md
+  - Blog: blog/index.md
+
