@@ -1,4 +1,4 @@
-# My Blog Posts
+# MY BLOG POSTS
 
 Here's a collection of blog posts. I will occasionally update them. But right now they're categorized by year. 
 

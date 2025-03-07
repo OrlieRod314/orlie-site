@@ -1,22 +1,12 @@
-# About Me
+# ABOUT ME
 
 Hey! My name is Orlando Rodriguez, and I'm a Software Engineer / Scientist working at Rincon Research Corporation in Tucson, AZ, USA. 
 
 ## Hobbies
 
-I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and 
-I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and 
-I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and 
-I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and 
-I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and 
-I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and 
-I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and 
-I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and 
-I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and 
-I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and 
-I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and 
+I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and just chilling in general.
 
-# About this Site
+# ABOUT THIS SITE
 
 Welcome to my little corner of the internet!
 
