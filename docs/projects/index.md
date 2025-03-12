@@ -12,3 +12,5 @@ Here is a collection of some of my projects. I'd like to expand this as I take o
 ### 2025
 
 ## Non-technical Projects
+
+### 2025

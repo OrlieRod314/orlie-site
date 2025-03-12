@@ -68,7 +68,11 @@
     
 
     
-</head>
+ <link href="assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }</style> <script src="assets/javascripts/glightbox.min.js"></script></head>
 
 <body class="terminal"><div class="container">
     <div class="terminal-nav">
@@ -139,8 +143,8 @@
     
 
 <section id="mkdocs-terminal-content">
-    <h1 id="welcome-to-my-site">Welcome to My Site!</h1>
-<p>Hey, my name is Orlando Rodriguez. Welcome to my portfolio/blog/project site! Feel free to email me with any feedback at <code>orlandorodriguezosr @ protonmail (dot) ch</code>.</p>
+    <h1 id="welcome-to-my-site">WELCOME TO MY SITE!</h1>
+<p>Hey, my name is Orlando Rodriguez. Welcome to my portfolio/blog/project site! Feel free to email me with any feedback at <code>orlandorodriguezosr (at) protonmail (dot) ch</code>.</p>
 <p>This site was built using <a href="https://www.mkdocs.org">mkdocs.org</a>.</p>
 </section>
 
@@ -197,6 +201,7 @@
 </div>
     
     
-</body>
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+</script></body>
 
 </html>

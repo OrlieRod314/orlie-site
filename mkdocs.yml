@@ -1,8 +1,32 @@
-site_name: Orlando Rodriguez
+site_name: ꙮrlando Rodriguez
+
+markdown_extensions:
+  - pymdownx.blocks.details:
+      types:
+        - name: info
+          class: terminal-alert
+          title: Info
+        - name: warn
+          class: 'terminal-alert terminal-alert-error'
+          title: Warning
+        - name: important
+          class: 'terminal-alert terminal-alert-primary'
+          title: Important
+  - pymdownx.blocks.caption
+  - attr_list
+  - md_in_html
+  - meta
+  - toc:
+      permalink: " =ꙮ="
+
 
 plugins:
   - search
   - git-revision-date
+  - glightbox
+  - macros:
+      modules:
+        - mkdocs-terminal:terminal.pluglets.tile_grid.main
 
 theme:
   name: terminal
