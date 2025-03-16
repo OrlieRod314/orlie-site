@@ -10,133 +10,209 @@ tiles:
 
 /// warn | Trigger Warning
 
-This does cover obesity. 
-
-So if body-image stuff is a concern to you, consider processing that before reading this.
- 
-Respectfully, I just want to make sure we can all get along and hurt as few feelings as possible.
+This post discusses obesity and body image. If those topics are tough for you, take a moment to check in with yourself before reading. I share my story with respect for everyone’s journey, and my goal is to avoid unnecessary harm or judgment.
 ///
 
 /// info | Summary
     open: True
 
-Losing weight can be hard! Thankfully with some internal work, it can become much easier, or at least you can come to peace with some of the inherent suffering.
- 
-Truly, I think that with the right principles of detachment, acceptance, and awareness, someone can really turn their health around.
+Losing weight is hard—no surprise there. But what *did* surprise me was how much easier the process became when I started to work on my mindset, not just my body. By learning detachment, practicing acceptance, and becoming more self-aware, I slowly figured out how to turn my health around. This is my story.
 ///
 
-## Introduction
-Growing up, I had always been sort of a fat kid.
-And personally, it didn't really bother me until I was around 15 years old, and I noticed that people noticed (in a negative way).
- 
 
-Being a fat kid is pretty funny until you're in college and then you're just a fat guy.
-Even then it's not, like, super bad.
-Even so, it's definitely not an ideal you should aspire to.
-Of course, what seems like a "quirk" in the moment is actually a very damaging lifestyle that will definitely take its toll on you in the future.
- 
+
+---
+
+# MY WEIGHT LOSS JOURNEY
+
+> ⚠️ **Trigger Warning**  
+This post discusses obesity and body image. If those topics are tough for you, take a moment to check in with yourself before reading. I share my story with respect for everyone’s journey, and my goal is to avoid unnecessary harm or judgment.
+
+> ℹ️ **Summary**  
+Losing weight is hard—no surprise there. But what *did* surprise me was how much easier the process became when I started to work on my mindset, not just my body. By learning detachment, practicing acceptance, and becoming more self-aware, I slowly figured out how to turn my health around. This is my story.
+
+---
+
+## Introduction: From Fat Kid to Fat Adult
+
+Growing up, I was always kind of the fat kid. For most of my childhood, it didn’t bother me much. I still had friends, I still had fun, and I didn’t think too hard about how I looked. It was just... life.
+
+But things shifted when I hit around 15. That’s when I started to realize other people *noticed*—and not in a good way. Suddenly, I wasn’t just existing in my own little world. I was aware of how others saw me, and that awareness stuck with me like a shadow.
+
+Being overweight as a kid? People joke about it. It’s “cute” or “quirky.” Being overweight in college? Not so much. Now you’re just “the fat guy.” It’s no longer endearing—it’s a problem people assume you should’ve solved by now.
+
+And the truth is, I didn’t aspire to be unhealthy. I didn’t want to stay overweight. But I also didn’t fully grasp how damaging the lifestyle was—not just physically, but mentally and emotionally. What seemed like a minor issue at the time was laying the groundwork for years of struggle down the road.
+
+---
+
 ## 2019-2020: The Fencing Arc
 
-### Discovery
+### A Chance Encounter
 
-In Fall of 2019, I entered the University of Arizona Honors College as a Computer Science student.
-To get away from home and "find myself", I relocated half an hour away to the Honors Village, a dorm located north of campus.
-At the time, I wouldn't have considered myself an athlete in the slightest, other than my brief time in the local Little League back in '08.
- 
-One of my highschool classmates at the time invited me to go to the gym with him, just for the sake of getting some exercise in.
-Honestly, looking back, if it hadn't been for the gym being right next door, I would never have gotten into fencing. 
+In Fall 2019, I started college at the University of Arizona, enrolling in the Honors College as a Computer Science student. Like a lot of people entering college, I wanted to "find myself." I didn’t go far—just about 30 minutes from home—but moving into the Honors Village dorm felt like a big step toward independence.
 
-About five minutes into our workout, I saw this man walk into the gym with a strange-looking bag strapped to his body.
-It looked oblong, as though a long object had been forcibly stuffed into a gym bag.
-Then he turned slightly to open the double doors to the basketball court, and I saw a sword hilt hanging out.
-Before this, I had never fenced before, so I had no idea what a guy was doing with a sword stuffed in a bag in the middle of the gym. 
+At the time, I was *not* athletic by any stretch. The last time I had played a sport was Little League back in 2008, and that had been short-lived. I wasn’t thinking about fitness; I was thinking about getting good grades, surviving college, and maybe figuring out who I wanted to be.
 
-I went to investigate, following him through the doors and all the way to the end of the basketball court.
-Past a large curtain divider that awkwardly split the court in half. 
+One day, a classmate from high school invited me to go to the gym. He wasn’t super into working out either, but we figured, “Why not?” Plus, the gym was literally next door to the dorm. Low effort, low stakes.
 
-Then I saw a few dozen students in a circle doing stretches.
-I saw this middle-aged looking man who was directing everyone.
-I approached him, and he introduced himself as Jay Fowler, the coach of the U of A Fencing Club.
-And starting that day, I was a fencer. 
+What happened next was pure chance—and it changed everything. About five minutes into our workout, I noticed this guy walk into the gym carrying an oddly shaped bag. It was long, narrow, and bulky, like something was stuffed in there that *shouldn’t* be. I watched as he shifted the bag, and that’s when I saw it—a sword hilt poking out.
 
-### Not so Straightforward
+I was intrigued. I’d never seen someone casually carrying a sword into a gym before, so I did what any curious person would do: I followed him. He went through a set of double doors into the basketball court, past a massive curtain divider that awkwardly split the court in half. I kept following, and at the far end of the court, I saw a group of students stretching in a circle. At the center was a middle-aged guy giving instructions.
 
-![Image title](../images/wcf_badge(1).jpg){ align=right }
+I approached him, and he introduced himself as **Jay Fowler**, the coach of the U of A Fencing Club. And just like that, without planning or even understanding what fencing *was*, I became a fencer.
 
+---
 
-I'd like to say that my journey as a fencer was a euphoric ride from beginning to end.
-But no. 
-It was, like most things in life, a series of good and bad experiences that take on different meaning depending on how I would choose to interpret them.
+### The Ups and Downs of Progress
 
-I actually lost fat and became fitter for once in my life. I started getting attention from the opposite sex and went on dates (something I never thought I'd accomplish at the time). And overall I was a lot "happier" on the surface. 
+![Fencing Badge](../images/wcf_badge(1).jpg){ align=right }
 
-However, here comes the weird part.
-I hadn't actually **grown** during my first year of college. 
-Sure, I lost weight and looked better.
-It was definitely a physical upgrade for all intents and purposes. 
-However, I didn't actually grow and mature internally, nor did I develop any actual resilience. 
+It would be nice to say that fencing changed my life in a clean, upward arc—that it was all gains, wins, and personal transformation. But life doesn’t work like that. Like most things, it was messy, unpredictable, and full of both victories and setbacks.
 
-All of the effort I had put into working out and eating better was out of sheer convenience and avoidance. 
+Still, things started to improve. I lost fat and got fitter—more than I ever had in my life. I started getting attention from the opposite sex and even went on dates (which felt surreal at the time). I was more confident, more social, and overall “happier”—at least on the surface.
 
-I just *happened* to have a roommate who helped me cook healthy meals and was kind enough to share with me.
+But here’s the twist: I hadn’t really *grown*. Not on the inside. All the progress I made physically wasn’t matched by emotional or mental growth. I hadn’t developed discipline, resilience, or real motivation. I wasn’t making these positive choices because I was driven or determined—I was just... lucky.
 
-I just *happened* to live right next to the gym where we practiced as a team.
-So it took absolutely no effort to make the one-minute walk to fencing practice. 
+- I *just happened* to have a roommate who cooked healthy meals and was generous enough to share.  
+- I *just happened* to live steps away from the gym, making it effortless to show up for fencing practice.  
+- I *just happened* to be broke enough that I couldn’t buy junk food, even if I wanted to binge.  
+- I *just happened* to schedule fencing practice during the same time I’d normally do my hardest homework. So naturally, I “prioritized my health” instead.
 
-I just *happened* to not have enough money to buy junk food all the time and gorge myself on it out of anxiety. 
+It wasn’t discipline—it was convenience. It wasn’t determination—it was avoidance.
 
-I just *happened* to have fencing practice at the same time that I had allocated for my Linear Algebra and Vector Calculus homework. So naturally, I had to go to fencing practice "for my health". After all, health is forever and homework is just for tonight, right?
+> I didn’t lose weight because I worked hard. I lost weight because it was easier *not* to fail.
 
-### A Worrying Conclusion
+And the worst part? I didn’t even realize it. At the time, I thought I was really *doing something*. But the truth is, I had the misfortune of getting exactly what I wanted, exactly when I wanted it—with none of the growth required to maintain it.
 
-Basically, what I'm trying to get at is: For once in my life, the factors were all in place. 
-
-I had no choice but to work out because it was so darn easy to do so. I was so ingrained in the social aspect of fencing that it felt almost alienating to miss practice. 
-
-I didn't lose weight because I put in effort. I lost weight because *it took literally __no__ effort*. 
-
-I had the terrible misfortune of getting exactly what I wanted, when I wanted it. 
+---
 
 ## 2020-2021: The COVID Arc
 
-Then one day, almost as though it was a punishment from God, COVID happened. 
+Then, as if the universe decided I was flying a little too high, COVID happened. Almost overnight, everything shut down. Classes went online, the gym closed, and the fencing club came to a screeching halt. It felt like someone had hit the “delete” button on my social life. All that progress? Gone—or at least, that’s how it felt.
 
-Almost **ALL** of my social progress was "deleted". I fell out of contact from most of the people I had become friends with. 
-I still had the core friend group from highschool (who had gone to the same college).
-And I still had some of the fencing team and some of my CS classmates. 
+I lost touch with most of the people I’d gotten to know. Sure, I still had a small group from high school who’d come to the same college, and a few classmates from fencing and CS, but everything else? Radio silence.
 
-Other than that, I was stuck all day in my tiny childhood bedroom doing online classes. 
+I was back in my childhood bedroom, trying to focus on Zoom lectures while surrounded by memories of who I *used* to be.
 
-I gained weight so fast and so hard that I didn't even recognize myself after six months. 
+And then, I gained weight. Fast. Like, **really fast**. Within six months, I didn’t even recognize myself. The mirror felt like a stranger was staring back.
 
-I struggled to lose weight because my environment at home didn't allow for any of those healthy habits I had developed. I simply couldn't bring myself to put in the necessary effort to lose weight. 
+### The Environment Shift
 
-I felt as though I had been exposed to some sort of Orlando-Kryptonite. 
-I literally couldn't cope with the friction of trying to build good habits. 
-I had become so reliant on the outside world conforming to my wishes, that I was unable to act. 
+The environment that had once *accidentally* set me up for success was gone. There was no gym next door. No roommate cooking for me. No fencing practice conveniently scheduled during my hardest homework time.
 
-If you need to have the proper circumstances in life to make the right decisions, you will *only* be able to make the right decisions when the circumstances are right. 
+I was left with just *me*. And I didn’t know how to handle that. I couldn’t bring myself to put in the effort to eat right or exercise. Everything felt hard. I’d sit at my desk for hours, scrolling, snacking, zoning out—completely disconnected from the version of myself that had once felt “in shape.”
 
-There was a virtue to doing the right thing, even when it's hard, that I completely missed. And so I wallowed in my own self-pity for about a year. 
+It felt like I was made of kryptonite. Like the moment life got hard, I lost all my powers. All my healthy habits collapsed under the slightest pressure.
 
-I was so happy when they announced an in-person school year.
+> I had become so used to life *conforming to me*, that when it didn’t, I froze. I couldn’t act. I couldn’t cope with resistance.
+
+### A Hard Realization
+
+That year taught me a painful truth: If you can only make good decisions *when life is easy*, you won’t make good decisions at all.
+
+There’s a virtue in doing the right thing *especially when it’s hard*. That’s something I had completely missed—and I paid the price for it.
+
+So I wallowed. I sulked. I numbed myself with comfort food and distractions.
+
+And I waited—hoping for life to go back to normal so I could go back to being “healthy” without having to work for it. When they announced the return to in-person classes, I was beyond relieved. I thought, “Finally. I can fix this.” But it wasn’t that simple.
+
+---
 
 ## 2021-2023: Junior and Senior Year
 
-![Image title](../images/junior_year_dorm.jpg){ width="400" align=right }
+![Junior Year Dorm](../images/junior_year_dorm.jpg){ width="400" align=right }
 
-The beginning of my junior year was quite rough. 
-First off, fencing was no longer held at the Honors Village gym. It was held *south* of campus, not north.
-The environment within my small dorm was also not the best at the time, I had a pretty unfortunate pairing. 
-My first ever student job involved long hours of being bound to a chair without the ability to go to a gym. 
+Returning to campus didn’t solve everything. In fact, it hit harder than I expected.
 
-However, one of my suitemates from across the kitchen became a lifelong connection who I still talk with to this day (so at least that's a win).
+Fencing was no longer held at the Honors Village gym. Instead, it had moved to a building on the *south* side of campus—far from where I lived. Suddenly, that effortless one-minute walk to practice became a 20-minute trek, and I just... didn’t go.
 
-And without going into too much detail, let's just say I never really got back into fencing. My tough academic workload, plus emotional problems I was grappling with at the time, made growth very difficult for me. 
+My dorm situation also sucked. I won’t go into detail, but let’s just say I had a rough roommate pairing that didn’t help my mental state.
 
-At the time I completely blamed my roommates and convinced myself that it was the outside world's fault that I had a "failure to launch". 
+On top of that, I got my first student job—long hours, stuck in a chair, no time to work out. No flexibility. No momentum.
 
-This mentality of blaming others persisted throughout my final two years of college, and I had a hard time being real with myself. 
+### Silver Linings & Stagnation
 
+Not everything was terrible, though. One of my suitemates became a great friend, someone I’m still close with today. That connection helped me stay afloat mentally, even when I felt like I was failing physically and emotionally.
+
+But when it came to health, growth, and getting back on track? I didn’t make much progress. I never really got back into fencing. My academics were intense, and I was dealing with emotional baggage I hadn’t unpacked. Everything felt like too much.
+
+Instead of facing it, I pointed fingers. I blamed my roommates. I blamed my job. I blamed the pandemic.
+
+I convinced myself that the *world* was the reason I couldn’t get it together. And that mindset—the refusal to take ownership—followed me through the rest of college.
+
+> I had a “failure to launch,” and instead of looking inward, I looked for excuses.
+
+---
 
 ## 2023-2024: Adulthood and Awakening
+
+In May 2023, I graduated with a degree in Computer Science. And I was *240-something pounds*.
+
+Let’s be real—that crushed me. Not because of the number, but because of what it *represented*: Years of missed opportunities, avoidance, and a version of myself I no longer wanted to be.
+
+I’d escaped the structured world of school, but now I had to face the unstructured reality of adulthood—and figure out who I actually was when no one else was setting the rules.
+
+(continued...)
+
+---
+
+## 2024-Now: Deconstructing everything I had ever known about how to live a good life
+
+Eventually, I became really frustrated with the way my life was going. 
+How come I just *couldn't* change? 
+
+I started consuming a lot of resources about weight loss, habit building, self-improvement, and all that jazz. 
+
+After a while I came to a few realizations that fundamentally shaped the way I think about behavior and the art of bettering yourself
+
+### The First Truth: The Nature of Motivation and Discipline
+/// important | The First Realization
+    open: True
+
+---
+
+Motivation is the ability to hold a thought in your head for a sustained period of time.
+///
+
+I'm not a neuroscientist or anything, but I have done a lot of reading on what separates successful and unsuccessful people. Some people say it's motivation, but that never really stuck right with me. After all, aren't homeless people really desperate to have a home?
+
+I've found that it's easier to eat healthier if I simply sit there and imagine myself being healthy and eating the right foods. If I put myself in a situation where there's junkfood, I will naturally just think about junkfood more often that I think about healthy food. 
+
+
+### The Second Truth: Pain Avoidance and Aggressive Reward-Seeking
+/// important | The Second Realization
+    open: True
+
+---
+
+If you have to get yourself in the mood to do XYZ. Then you will *only* be able to do XYZ when you're in the mood.
+///
+
+Most people try to approach self-improvement from a perspective of reducing the pain and increasing the incentive. You see this in ideas that get thrown around about "tricking yourself into wanting to work out", and stuff like that. 
+
+This stems from a very weird western idea I've noticed, where people are obsessed with "taking what they want" and "leaving what they don't care for" out of literally everything in their life. Maybe it's a form of commodification? 
+
+
+### The Third Truth: Awareness *Should* Precede Action
+/// important | The Third Realization
+    open: True
+
+---
+
+It's hard to know what *immediate action* to take if you don't regularly know where you stand. 
+///
+
+At the beginning of 2025, I started tracking my weight every morning. I'm aware that body weight fluctuates naturally because of water retention and whatnot. But it was still important for me to get into the habit of recording my weight, body fat percentage, body water percentage, skeletal mass, and muscle mass percentage. 
+
+I wanted to be able to see the effects of water retention and muscle growth with as much granularity as possible because I'm a scientist and I like watching numbers go up and down and observing trends across long periods of time.
+
+Regularly updating yourself on your progress/standing will bring a sense of *awareness* to your situation. And you will be able to *sustain the thought* of doing the right thing, the more aware you are of your standing relative to that ambition.
+
+### The Fourth Truth: The Nature of Sacrifice and Surrender
+/// important | The Fourth Realization
+    open: True
+
+---
+
+"You" will "never" benefit from "your" sacrifices.
+///
