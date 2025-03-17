@@ -25,13 +25,6 @@ Losing weight is hard—no surprise there. But what *did* surprise me was how mu
 
 # MY WEIGHT LOSS JOURNEY
 
-> ⚠️ **Trigger Warning**  
-This post discusses obesity and body image. If those topics are tough for you, take a moment to check in with yourself before reading. I share my story with respect for everyone’s journey, and my goal is to avoid unnecessary harm or judgment.
-
-> ℹ️ **Summary**  
-Losing weight is hard—no surprise there. But what *did* surprise me was how much easier the process became when I started to work on my mindset, not just my body. By learning detachment, practicing acceptance, and becoming more self-aware, I slowly figured out how to turn my health around. This is my story.
-
----
 
 ## Introduction: From Fat Kid to Fat Adult
 
@@ -65,7 +58,7 @@ I approached him, and he introduced himself as **Jay Fowler**, the coach of the 
 
 ### The Ups and Downs of Progress
 
-![Fencing Badge](../images/wcf_badge(1).jpg){ align=right }
+![Fencing Badge](../../../images/wcf_badge(1).jpg){ align=right }
 
 It would be nice to say that fencing changed my life in a clean, upward arc—that it was all gains, wins, and personal transformation. But life doesn’t work like that. Like most things, it was messy, unpredictable, and full of both victories and setbacks.
 
@@ -120,7 +113,7 @@ And I waited—hoping for life to go back to normal so I could go back to being 
 
 ## 2021-2023: Junior and Senior Year
 
-![Junior Year Dorm](../images/junior_year_dorm.jpg){ width="400" align=right }
+![Junior Year Dorm](../../../images/junior_year_dorm.jpg){ width="400" align=right }
 
 Returning to campus didn’t solve everything. In fact, it hit harder than I expected.
 
@@ -165,6 +158,8 @@ I started consuming a lot of resources about weight loss, habit building, self-i
 
 After a while I came to a few realizations that fundamentally shaped the way I think about behavior and the art of bettering yourself
 
+---
+
 ### The First Truth: The Nature of Motivation and Discipline
 /// important | The First Realization
     open: True
@@ -178,6 +173,11 @@ I'm not a neuroscientist or anything, but I have done a lot of reading on what s
 
 I've found that it's easier to eat healthier if I simply sit there and imagine myself being healthy and eating the right foods. If I put myself in a situation where there's junkfood, I will naturally just think about junkfood more often that I think about healthy food. 
 
+Meditation and prayer are foundational skills that I have been building lately. And they have been fundamental in evening out my mood and thoughts throughout the day. I find myself growing anxious less often, and existing at peace with the world more often. 
+
+Also, fix your sleep schedule.
+
+---
 
 ### The Second Truth: Pain Avoidance and Aggressive Reward-Seeking
 /// important | The Second Realization
@@ -192,6 +192,13 @@ Most people try to approach self-improvement from a perspective of reducing the 
 
 This stems from a very weird western idea I've noticed, where people are obsessed with "taking what they want" and "leaving what they don't care for" out of literally everything in their life. Maybe it's a form of commodification? 
 
+For years, I would try and get myself to go to the gym by "setting myself up" the night before. Leaving my gym clothes and shoes. I would try and seamlessly blend my showers into other parts of my life. I would "chore stack" to get stuff done as fast as possible. But I would just wake up the next day exhausted. I was really just living in constant "mood debt" to the next day. And then eventually that "debt" would get too big and I just wouldn't be able to do anything. Willpower and mind games can only go so far. The copium is real. 
+
+Nobody actually "feels good" at the gym. Some people definitely derive pleasure from working out and knowing that they're doing something good for their body. But that's because they've *detached* themselves from the suffering of going to the gym. They still feel the pain and the buildup of lactic acid, but in their minds, it's as though there's a glass screen separating them. 
+
+This idea of detachment is necessary for consistency. You do have to accept at a certain point that working out *will* suck, the physical discomfort and pain are there. And it won't go away until you stop working out. Even then, the next day you'll probably sore. Working out objectively sucks if you're not used to it. There's no easy way around it.
+
+---
 
 ### The Third Truth: Awareness *Should* Precede Action
 /// important | The Third Realization
@@ -204,9 +211,17 @@ It's hard to know what *immediate action* to take if you don't regularly know wh
 
 At the beginning of 2025, I started tracking my weight every morning. I'm aware that body weight fluctuates naturally because of water retention and whatnot. But it was still important for me to get into the habit of recording my weight, body fat percentage, body water percentage, skeletal mass, and muscle mass percentage. 
 
-I wanted to be able to see the effects of water retention and muscle growth with as much granularity as possible because I'm a scientist and I like watching numbers go up and down and observing trends across long periods of time.
+I wanted to be able to see the effects of water retention and muscle growth with as much granularity as possible because I'm a scientist and I like watching numbers go up and down and observing trends across long periods of time. 
 
-Regularly updating yourself on your progress/standing will bring a sense of *awareness* to your situation. And you will be able to *sustain the thought* of doing the right thing, the more aware you are of your standing relative to that ambition.
+Also, weighing yourself every day lets you observe those water weight and hormonal fluctuations in real time. Over time you'll develop an instict for how your body weight fluctuates, and you won't feel fat when you step on the scale the next day and see your weight changed. 
+
+You learn to accept the fact that your weight naturally fluctuates and that that's okay. Because you see the fluctations within the context of the overall trend.
+
+Regularly updating yourself on your progress/standing will bring a sense of *awareness* to your situation. And you will be able to *sustain the thought* of doing the right thing, the more aware you are of your standing relative to that ambition. 
+
+This also allows you to make minor course corrections when you have to. Instead of waiting until you notice the weight gain and you have to go on some extreme diet.
+
+---
 
 ### The Fourth Truth: The Nature of Sacrifice and Surrender
 /// important | The Fourth Realization
@@ -216,3 +231,24 @@ Regularly updating yourself on your progress/standing will bring a sense of *awa
 
 "You" will "never" benefit from "your" sacrifices.
 ///
+
+
+So what the hell does that mean?
+
+Imagine your professor gives you three weeks to do an assignment. And you goof off for three weeks straight, and you try and cram the whole thing in the final night. 
+
+What just happened there? You put off the inherent suffering in doing your homework, for later. You decided that you wouldn't go through the trouble right now. But you spent three weeks doing that. And now that it's the due date, you try and cram everything in the last five hours of the night. 
+
+There you are at your desk, crying. Realizing that you won't be able to finish this assignment that's worth 20% of your grade. You will definitely never get an A now.
+
+But wait, didn't you know this was going to happen? Didn't you *willingly* put off suffering for later? Why the heck are you complaining? You were so okay with the idea of doing the work later. 
+
+Ah... I see... you aren't the same person who put off their work. In your perspective, you woke up on the last day with a pile of homework you are now *forced* to do. Whereas every other day you woke up with a pile of homework that you could simply push forwards.
+
+*The "you" who put off their homework is **NOT** the same person who has to do it the next day*
+
+Likewise, when you go to the gym to work out, you will never feel the benefits. You will only feel the pain and soreness today. Because by the time you're fit and lean, you will not be the same person who is in a position to make those sacrifices. 
+
+Future you (who only exists in the future) is the only one who will benefit. Right now (in the future), future you has what you are working for. And if you want to wake up tomorrow in that future, you must abandon today for their sake. 
+
+You have to abandon what you want today, and instead do what future you accomplished today. And make sure he was grateful tomorrow.

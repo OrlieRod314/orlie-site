@@ -6,6 +6,8 @@ Hey! My name is Orlando Rodriguez, and I'm a Software Engineer / Scientist worki
 
 I enjoy learning languages, gaming with friends, going outdoors, doing TaeKwonDo, and just chilling in general.
 
+---
+
 # ABOUT THIS SITE
 
 Welcome to my little corner of the internet!
